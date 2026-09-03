@@ -1,4 +1,4 @@
 variable "location" {
   default     = "East US"
-  description = "Azure region for resource deployment"
+  description = "region for deployment"
 }

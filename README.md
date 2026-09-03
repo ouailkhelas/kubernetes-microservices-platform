@@ -56,9 +56,3 @@ kubectl get svc -n ecommerce
 - **Pods**: Scalable backend microservice workload instances.
 
 ---
-
-## Real Project Results & Impact
-- Achieved **99.95% uptime availability** across microservices workloads using automated pod self-healing.
-- Reduced container deployment cycle time by **60%** using Terraform and Kubernetes deployment manifests.
-
----
